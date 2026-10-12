@@ -3,3 +3,4 @@
 2. Code.R contains the main code used in this study, serving as a supplement to the Materials and Methods.
 # Citation
 Zhao et al. Convergent innovation of (crypto)vivipary via asymmetric dismantling of seed desiccation and dormancy machinery. 
+PNAS. 2026 Oct 13;123(41):e2602105123. doi: 10.1073/pnas.2602105123. PMID: 42826128.
